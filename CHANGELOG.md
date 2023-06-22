@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/Stacked-Org/core/compare/v1.3.2...v1.4.0) (2023-06-22)
+
+
+### Features
+
+* add InitializableDependency interface ([#6](https://github.com/Stacked-Org/core/issues/6)) ([647ba92](https://github.com/Stacked-Org/core/commit/647ba925aee4bcbc095478dd80226290660d4275))
+
 ## [1.3.2](https://github.com/Stacked-Org/core/compare/v1.3.1...v1.3.2) (2023-04-25)
 
 
